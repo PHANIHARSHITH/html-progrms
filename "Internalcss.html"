@@ -6,7 +6,9 @@
 	</style>
 </head>
 <body>
-<h1> How to Implement Internal CSS </h1>
-<p3> It is implemented by using the style tag by this we can implement more than one heading or para seperately int this only one head tag  </p3>
+<h1> Internal CSS </h1>
+<p3>The internal style sheet is used to add a unique style for a single document. It is defined in <head> section of the HTML page inside the <style> tag.
+
+</p3>
 </body>
 </html>
