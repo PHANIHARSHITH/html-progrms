@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Internal CSS</title>
+	<style>
+	    h1{color:Blue;margin-left:20px;}
+	</style>
+</head>
+<body>
+<h1> How to Implement Internal CSS </h1>
+<p3> It is implemented by using the style tag by this we can implement more than one heading or para seperately int this only one head tag  </p3>
+</body>
+</html>
